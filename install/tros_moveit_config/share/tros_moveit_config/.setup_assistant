@@ -1,0 +1,25 @@
+moveit_setup_assistant_config:
+  urdf:
+    package: tros_sldworks_pkg
+    relative_path: urdf/robot_description.urdf.xacro
+  srdf:
+    relative_path: config/tros_sldworks_pkg.srdf
+  package_settings:
+    author_name: Raleigh Slack
+    author_email: slack.138@osu.edu
+    generated_timestamp: 1790531778
+  control_xacro:
+    command:
+      - position
+    state:
+      - position
+      - velocity
+  modified_urdf:
+    xacros:
+      - control_xacro
+  control_xacro:
+    command:
+      - position
+    state:
+      - position
+      - velocity

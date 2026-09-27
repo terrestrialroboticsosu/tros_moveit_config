@@ -1,0 +1,8 @@
+# Default initial positions for tros_sldworks_pkg's ros2_control fake system
+
+initial_positions:
+  arm_base_turret_joint: 0
+  arm_end_effector_spin_joint: 0
+  arm_end_effector_turn_joint: 0
+  arm_mid_joint: 0
+  arm_turret_joint: 0

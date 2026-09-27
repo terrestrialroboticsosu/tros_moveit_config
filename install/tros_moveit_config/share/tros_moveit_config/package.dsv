@@ -1,8 +1,0 @@
-source;share/tros_moveit_config/hook/cmake_prefix_path.ps1
-source;share/tros_moveit_config/hook/cmake_prefix_path.dsv
-source;share/tros_moveit_config/hook/cmake_prefix_path.sh
-source;share/tros_moveit_config/local_setup.bash
-source;share/tros_moveit_config/local_setup.dsv
-source;share/tros_moveit_config/local_setup.ps1
-source;share/tros_moveit_config/local_setup.sh
-source;share/tros_moveit_config/local_setup.zsh
